@@ -1,0 +1,27 @@
+{
+  "name": "Mocha-and-Chai",
+  "version": "0.0.1",
+  "description": "mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ltvch/Mocha-and-Chai.git"
+  },
+  "keywords": [
+    "mocha",
+    "chai"
+  ],
+  "author": "ltvch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ltvch/Mocha-and-Chai/issues"
+  },
+  "homepage": "https://github.com/ltvch/Mocha-and-Chai",
+  "dependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
